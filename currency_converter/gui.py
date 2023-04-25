@@ -1,3 +1,20 @@
+"""
+Currency Converter GUI
+Author: James Nicholson
+Date: 04/24/2023
+Description: Provide a user-friendly interface for converting currency
+
+"""
+import tkinter as tk
+from utils import convert_currency
+
+# Replace "YOUR_API_KEY" with your actual API key from Apilayer
+API_KEY = "iXoFQv4XxNB5LRwWD3PO8SH55Te5ehQc"
+
+def create_gui(root):
+    # ...
+
+
 import tkinter as tk
 from utils import convert_currency
 

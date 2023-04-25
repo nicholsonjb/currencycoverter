@@ -1,3 +1,11 @@
+"""
+Currency Converter Utility
+Author: James Nicholson
+Date: 04/24/2023
+Description: This utility provides a function for converting currencies using real-time exchange rates from the Apilayer API.
+"""
+
+
 import requests
 
 # Replace "YOUR_API_KEY" with your actual API key from Apilayer

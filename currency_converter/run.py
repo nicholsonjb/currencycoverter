@@ -1,3 +1,10 @@
+"""
+Currency Converter Application
+Author: James Nicholson
+Date: 04/24/2023
+Description: This application allows users to convert currencies using real-time exchange rates from the Apilayer API.
+"""
+
 import tkinter as tk
 from gui import create_gui
 
