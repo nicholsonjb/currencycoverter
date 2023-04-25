@@ -9,7 +9,7 @@ Description: This utility provides a function for converting currencies using re
 import requests
 
 # Replace "YOUR_API_KEY" with your actual API key from Apilayer
-api_key = "iXoFQv4XxNB5LRwWD3PO8SH55Te5ehQc"
+api_key = "YOUR_API_KEY"
 
 # API endpoint URL for getting exchange rates
 url = f"https://api.apilayer.com/exchangerates_data/{api_key}"
